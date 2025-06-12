@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adirom0901
-- 👀 I’m interested in SDE,DA,DS
+- 👀 I’m interested in DS,DA,BA,ML Engineer roles
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on DS projects
 - 📫 How to reach me https://www.linkedin.com/in/aditya-namdeo-b393402b4/
